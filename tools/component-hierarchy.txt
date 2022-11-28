@@ -1,0 +1,9 @@
+👁‍🗨 SqaToolsContainer
+  👁‍🗨 FormsContainer
+    💲 BlueForm
+    💲 GreenForm
+    💲 RedForm
+  👁‍🗨 ObjectContainer
+    💲 EndpointName
+    💲 ObjectView
+    
